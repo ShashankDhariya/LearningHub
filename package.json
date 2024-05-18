@@ -1,0 +1,27 @@
+{
+    "name": "learning_hub",
+    "version": "1.0.0",
+    "description": "A new Flutter project.",
+    "main": "truffle-config.js",
+    "directories": {
+        "lib": "lib",
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ShashankDhariya/LearningHub.git"
+    },
+    "author": "Shashank",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ShashankDhariya/LearningHub/issues"
+    },
+    "homepage": "https://github.com/ShashankDhariya/LearningHub#readme",
+    "dependencies": {
+        "node": "^22.2.0",
+        "truffle": "^5.11.5"
+    }
+}
