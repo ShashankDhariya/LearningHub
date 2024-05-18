@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-contract Distribute {
+contract DistributeContract {
     address public owner;
 
     struct Transaction {
